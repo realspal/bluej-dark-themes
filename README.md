@@ -12,3 +12,12 @@ Installation guide
 6. Choose to ```Replace``` the existing files with the same names in this folder, and click on ```Continue``` if required.
 7. Close BlueJ if open and start BlueJ again. The editor and terminal windows should have the new theme.
 8. If you need to switch back to the default light theme of BlueJ, you can follow the above procedure and select ```bluej-default-theme``` in step-3, or, you can make a copy of the original ```C:\Program Files\BlueJ\lib\stylesheets``` folder before installing the new theme.
+
+-----------------------------------------------------------------------------------------------
+
+Screenshots
+-----------------------------------------------------------------------------------------------
+
+![Screenshot-bluej-default-vs-standard-dark](https://user-images.githubusercontent.com/76199286/153706319-6f8c3253-7390-4a2d-b092-254c2cdf29e4.png)
+
+-----------------------------------------------------------------------------------------------
