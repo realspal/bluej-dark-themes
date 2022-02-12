@@ -1,0 +1,76 @@
+.token-keyword1 {
+    -fx-fill: #b9638e; /*modified*/
+}
+.token-keyword2 {
+    -fx-fill: #d35d5d; /*modified*/ 
+}
+.token-keyword3 {
+    -fx-fill: #459ac5; /*modified*/
+}
+
+.token-comment-normal {
+    -fx-fill: #4384b9; /*modified*/
+}
+.token-comment-javadoc {
+    -fx-fill: #5555cc; /*modified*/
+}
+.token-comment-special {
+    -fx-fill: #fd62dc; /*modified*/
+}
+
+.token-primitive {
+    -fx-fill: #d35f5f; /*modified*/
+}
+.token-char-literal { 
+	-fx-fill: #d8a445; /*modified*/ 
+}
+.token-string-literal {
+    -fx-fill: #4ca74c; /*modified*/
+}
+.token-label {
+    -fx-fill: #616161; /*modified*/
+}
+.token-invalid {
+    -fx-fill: #ff8c6f; /*modified*/
+}
+/* Default text colour */
+.token-default {
+    -fx-fill: rgb(180, 180, 180); /*modified*/
+}
+
+.scope-colors {
+    -bj-background-color: rgb(15, 15, 15); /*modified*/
+
+    -bj-class-color: rgb(20, 20, 20); /*modified*/
+    -bj-class-outer-color: rgb(25, 25, 25); /*modified*/
+    -bj-class-inner-color: rgb(25, 25, 25); /*modified*/
+
+    -bj-method-color: rgb(25, 25, 25); /*modified*/
+    -bj-method-outer-color: rgb(30, 30, 30); /*modified*/
+
+    -bj-selection-color: rgb(30, 30, 30); /*modified*/
+    -bj-selection-outer-color: rgb(35, 35, 35); /*modified*/
+
+    -bj-iteration-color: rgb(35, 35, 35); /*modified*/
+    -bj-iteration-outer-color: rgb(40, 40, 40); /*modified*/
+
+    -bj-breakpoint-overlay-color: rgba(216, 83, 83, 0.6); /*modified*/
+    -bj-step-overlay-color: rgba(72, 160, 72, 0.6); /*modified*/
+}
+
+.moe-step-mark-icon {
+    -fx-fill: rgb(20, 140, 20); /*modified*/
+    -fx-stroke: white; /*modified*/
+}
+
+.moe-editor-pane {
+    -fx-background-color: rgb(15, 15, 15); /*modified*/
+    -fx-highlight-fill: hsb(211, 33%, 36%); /*modified*/
+}
+
+.moe-find-result {
+    -rtfx-background-color: hsb(211, 29%, 37%); /*modified*/
+}
+.moe-editor-pane .caret {
+   -fx-stroke: rgb(255, 147, 190); /*modified*/
+}#
