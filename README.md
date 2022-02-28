@@ -1,5 +1,5 @@
 # bluej-dark-themes
-Dark themes for BlueJ IDE.
+Dark themes for BlueJ Java IDE.
 
 Installation guide
 -----------------------------------------------------------------------------------------------
